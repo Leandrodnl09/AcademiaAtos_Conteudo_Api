@@ -1,0 +1,17 @@
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AcademiaAtos_Conteudo_Api\AcademiaAtos_Conteudo_Api\bin\Debug\net6.0\AcademiaAtos_Conteudo_Api.exe
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AcademiaAtos_Conteudo_Api\AcademiaAtos_Conteudo_Api\bin\Debug\net6.0\AcademiaAtos_Conteudo_Api.deps.json
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AcademiaAtos_Conteudo_Api\AcademiaAtos_Conteudo_Api\bin\Debug\net6.0\AcademiaAtos_Conteudo_Api.runtimeconfig.json
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AcademiaAtos_Conteudo_Api\AcademiaAtos_Conteudo_Api\bin\Debug\net6.0\AcademiaAtos_Conteudo_Api.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AcademiaAtos_Conteudo_Api\AcademiaAtos_Conteudo_Api\bin\Debug\net6.0\AcademiaAtos_Conteudo_Api.pdb
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AcademiaAtos_Conteudo_Api\AcademiaAtos_Conteudo_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AcademiaAtos_Conteudo_Api\AcademiaAtos_Conteudo_Api\obj\Debug\net6.0\AcademiaAtos_Conteudo_Api.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AcademiaAtos_Conteudo_Api\AcademiaAtos_Conteudo_Api\obj\Debug\net6.0\AcademiaAtos_Conteudo_Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AcademiaAtos_Conteudo_Api\AcademiaAtos_Conteudo_Api\obj\Debug\net6.0\AcademiaAtos_Conteudo_Api.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AcademiaAtos_Conteudo_Api\AcademiaAtos_Conteudo_Api\obj\Debug\net6.0\AcademiaAtos_Conteudo_Api.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AcademiaAtos_Conteudo_Api\AcademiaAtos_Conteudo_Api\obj\Debug\net6.0\AcademiaAtos_Conteudo_Api.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AcademiaAtos_Conteudo_Api\AcademiaAtos_Conteudo_Api\obj\Debug\net6.0\AcademiaAtos_Conteudo_Api.csproj.CopyComplete
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AcademiaAtos_Conteudo_Api\AcademiaAtos_Conteudo_Api\obj\Debug\net6.0\AcademiaAtos_Conteudo_Api.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AcademiaAtos_Conteudo_Api\AcademiaAtos_Conteudo_Api\obj\Debug\net6.0\refint\AcademiaAtos_Conteudo_Api.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AcademiaAtos_Conteudo_Api\AcademiaAtos_Conteudo_Api\obj\Debug\net6.0\AcademiaAtos_Conteudo_Api.pdb
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AcademiaAtos_Conteudo_Api\AcademiaAtos_Conteudo_Api\obj\Debug\net6.0\AcademiaAtos_Conteudo_Api.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AcademiaAtos_Conteudo_Api\AcademiaAtos_Conteudo_Api\obj\Debug\net6.0\ref\AcademiaAtos_Conteudo_Api.dll

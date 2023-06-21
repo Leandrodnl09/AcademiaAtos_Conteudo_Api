@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AspNetMVCeEF
+build_property.RootNamespace = AspNetMVCeEF
+build_property.ProjectDir = D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AspNetMVCeEF\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula31\AspNetMVCeEF
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/LEANDRO/CURSOS/AcademiaAtosNET2023/Aula31/AspNetMVCeEF/Views/Home/Cadastrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWRhc3RyYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LEANDRO/CURSOS/AcademiaAtosNET2023/Aula31/AspNetMVCeEF/Views/Home/CadastroEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWRhc3Ryb0VtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LEANDRO/CURSOS/AcademiaAtosNET2023/Aula31/AspNetMVCeEF/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LEANDRO/CURSOS/AcademiaAtosNET2023/Aula31/AspNetMVCeEF/Views/Home/Pessoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXNzb2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LEANDRO/CURSOS/AcademiaAtosNET2023/Aula31/AspNetMVCeEF/Views/Home/PessoaId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXNzb2FJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LEANDRO/CURSOS/AcademiaAtosNET2023/Aula31/AspNetMVCeEF/Views/Home/Pessoas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXNzb2FzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LEANDRO/CURSOS/AcademiaAtosNET2023/Aula31/AspNetMVCeEF/Views/Home/Sobre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTb2JyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LEANDRO/CURSOS/AcademiaAtosNET2023/Aula31/AspNetMVCeEF/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LEANDRO/CURSOS/AcademiaAtosNET2023/Aula31/AspNetMVCeEF/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

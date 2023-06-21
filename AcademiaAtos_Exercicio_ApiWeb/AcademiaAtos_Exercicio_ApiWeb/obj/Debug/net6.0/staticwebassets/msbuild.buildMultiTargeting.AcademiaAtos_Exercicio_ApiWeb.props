@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AcademiaAtos_Exercicio_ApiWeb.props" />
+</Project>

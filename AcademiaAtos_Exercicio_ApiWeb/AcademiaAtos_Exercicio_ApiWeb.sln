@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademiaAtos_Exercicio_ApiWeb", "AcademiaAtos_Exercicio_ApiWeb\AcademiaAtos_Exercicio_ApiWeb.csproj", "{3561CEE9-CC52-46E8-9730-006387DE4E79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3561CEE9-CC52-46E8-9730-006387DE4E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3561CEE9-CC52-46E8-9730-006387DE4E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3561CEE9-CC52-46E8-9730-006387DE4E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3561CEE9-CC52-46E8-9730-006387DE4E79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20F594A6-C6FE-49F4-A4C1-48EB6D095007}
+	EndGlobalSection
+EndGlobal
